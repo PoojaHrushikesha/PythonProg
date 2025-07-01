@@ -36,7 +36,7 @@ def todo_app():
         elif choice == '3':
             break
         else:
-            print("Invalid choice")
+            print("Invalid choice") 
 
 
 def notes_app():
